@@ -5946,6 +5946,9 @@ body {
 .grid > .col-2-12 {
   max-width: 16.66667%;
 }
+.grid > .col-2-10 {
+  max-width: 20%;
+}
 .grid > .col-3-12 {
   max-width: 25%;
 }
